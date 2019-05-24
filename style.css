@@ -3,6 +3,14 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;}
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
 h1{
     color: #66BFBF;
     font-size: 5.625rem;
