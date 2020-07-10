@@ -90,10 +90,10 @@ p{
     text-align: left;
 }
 .skill-img{
-    widows: 175px;
+    width: 175px;
     height: 200px;
     float: left;
-    margin-right: 30px;
+    margin-right: 20px;
   
 }
 .cyber{
